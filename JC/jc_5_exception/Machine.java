@@ -1,4 +1,4 @@
-package jc_4_exception;
+package jc_5_exception;
 
 public class Machine implements Options{
 	public void showInfo() {

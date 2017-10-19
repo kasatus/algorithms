@@ -1,4 +1,4 @@
-package jc_4_exception;
+package jc_5_exception;
 
 public class App {
 	public static void main() {

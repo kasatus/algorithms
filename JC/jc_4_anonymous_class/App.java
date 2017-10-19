@@ -1,4 +1,4 @@
-package jc_3_anonymous_class;
+package jc_4_anonymous_class;
 
 public class App {
 	public static void main(String[] args) {

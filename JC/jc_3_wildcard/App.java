@@ -1,4 +1,4 @@
-package jc_2_wildcard;
+package jc_3_wildcard;
 
 import java.util.ArrayList;
 import java.util.List;

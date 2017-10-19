@@ -1,11 +1,11 @@
-package jc_2_wildcard;
+package jc_3_wildcard;
 
-public class Chip {
+public class Machine {
 
 	@Override
 	public String toString() {
 		// TODO Auto-generated method stub
-		return "I'm a Chip!";
+		return "I'm a Machine!";
 	}
-	
+
 }
