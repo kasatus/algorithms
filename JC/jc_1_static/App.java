@@ -1,6 +1,7 @@
-package jc_static;
+package jc_1_static;
 
 public class App {
+	
 	public static void main(String[] args) {
 		Robot robotA = new Robot();
 		robotA.release();

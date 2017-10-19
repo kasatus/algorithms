@@ -1,4 +1,4 @@
-package jc_static;
+package jc_1_static;
 
 public class Robot {
 	protected static int ID = 0;
