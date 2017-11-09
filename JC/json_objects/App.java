@@ -45,7 +45,14 @@ public class App {
 //			}
 //		}
 		
-		memoryMapWriter();
+		String str = "domains.20171031-025516_UTC";
+		String[] parts = str.split("/");
+		for (String s : parts) {
+			System.out.println(s);
+		}
+		System.out.println(str.split("/")[parts.length - 1]);
+		
+		//memoryMapWriter();
 
 		
 		
